@@ -6,7 +6,7 @@
     <title>CT2. Finance and Financial Reporting</title>
 </head>
 <body>
-    <h1>CT2. Finance and Financial Reporting</h1>
+    <h1>Stock Visualization</h1>
 
     <h2>Project Idea</h2>
     <p>The aim of this project is to analyze historical stock market data using Python's pandas library to identify trends and patterns. We will leverage matplotlib for visualizing stock price movements over time and pandas for calculating essential financial metrics such as moving averages, volatility, and returns. Additionally, we will explore financial reporting practices by comparing the financial statements of different companies within the same industry.</p>
