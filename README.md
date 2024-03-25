@@ -1,52 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CT2. Finance and Financial Reporting</title>
-</head>
-<body>
-    <h1>Stock Visualization</h1>
+# Stock Visualization
 
-    <h2>Project Idea</h2>
-    <p>The aim of this project is to analyze historical stock market data using Python's pandas library to identify trends and patterns. We will leverage matplotlib for visualizing stock price movements over time and pandas for calculating essential financial metrics such as moving averages, volatility, and returns. Additionally, we will explore financial reporting practices by comparing the financial statements of different companies within the same industry.</p>
+<h2>Finance and Financial Reporting</h2>
+<p><strong>Project Idea:</strong> Analyze historical stock market data using pandas to identify trends and patterns. Use matplotlib to visualize stock price movements over time, and pandas to calculate financial metrics such as moving averages, volatility, and returns. You can also explore financial reporting practices by comparing the financial statements of different companies in the same industry.</p>
 
-    <h2>Key Features</h2>
-    <ul>
-        <li>Fetch historical stock market data using yfinance.</li>
-        <li>Utilize pandas for data manipulation and analysis.</li>
-        <li>Visualize stock price movements over time using matplotlib.</li>
-        <li>Calculate financial metrics such as moving averages, volatility, and returns.</li>
-        <li>Compare financial statements of companies within the same industry.</li>
-    </ul>
-  
-    <h2>Project Structure</h2>
-    <ul>
-        <li><strong>data_analysis.ipynb</strong>: Jupyter Notebook containing the code for analyzing historical stock market data and performing financial reporting analysis.</li>
-        <li><strong>README.md</strong>: Overview of the project, its objectives, and key features.</li>
-        <li><strong>LICENSE</strong>: License information for the project (optional).</li>
-        <li><strong>requirements.txt</strong>: List of dependencies required to run the project (if applicable).</li>
-    </ul>
+<p><strong>Key Features:</strong><br>
+    Fetch historical stock market data using yfinance.<br>
+    Utilize pandas for data manipulation and analysis.<br>
+    Visualize stock price movements over time using matplotlib.<br>
+    Calculate financial metrics such as moving averages, volatility, and returns.<br>
+    Compare financial statements of companies within the same industry.</p>
 
-    <h2>Getting Started</h2>
-    <ol>
-        <li>Clone the repository to your local machine.</li>
-        <li>Install the required dependencies by running <code>pip install -r requirements.txt</code>.</li>
-        <li>Open and run the <code>data_analysis.ipynb</code> notebook using Jupyter Notebook or any compatible environment.</li>
-    </ol>
+<p><strong>Getting Started:</strong> <br>To get started with the project, follow these steps: <br> 1. Clone the repository to your local machine. <br> 2. Install the required dependencies by running pip install -r requirements.txt. <br> 3. Open and run the data_analysis.ipynb notebook using Jupyter Notebook or any compatible environment.</p>
 
-    <h2>Usage</h2>
-    <ul>
-        <li>Modify the code in <code>data_analysis.ipynb</code> to analyze data for different time periods or companies.</li>
-        <li>Experiment with different financial metrics and visualizations to gain insights into stock market trends.</li>
-    </ul>
-
-    <h2>Contributors</h2>
-    <ul>
-        <li><a href="#">Your Name</a></li>
-    </ul>
-
-    <h2>License</h2>
-    <p>This project is licensed under the <a href="#">MIT License</a>.</p>
-</body>
-</html>
+<p><strong>Usage:</strong> <br> Modify the code in data_analysis.ipynb to analyze data for different time periods or companies.<br>
+Experiment with different financial metrics and visualizations to gain insights into stock market trends.</p>
