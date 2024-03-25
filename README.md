@@ -1,5 +1,3 @@
-# StockVisualization
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,5 +45,8 @@
     <ul>
         <li><a href="#">Your Name</a></li>
     </ul>
+
+    <h2>License</h2>
+    <p>This project is licensed under the <a href="#">MIT License</a>.</p>
 </body>
 </html>
