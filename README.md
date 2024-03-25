@@ -1,7 +1,7 @@
 # Stock Visualization
 
-<h2>Finance and Financial Reporting</h2><br>
-<p><strong>Project Idea:</strong> Analyze historical stock market data using pandas to identify trends and patterns. Use matplotlib to visualize stock price movements over time, and pandas to calculate financial metrics such as moving averages, volatility, and returns. You can also explore financial reporting practices by comparing the financial statements of different companies in the same industry.</p>
+<h2>Finance and Financial Reporting</h2>
+<p><strong>Project Idea:</strong><br> Analyze historical stock market data using pandas to identify trends and patterns. Use matplotlib to visualize stock price movements over time, and pandas to calculate financial metrics such as moving averages, volatility, and returns. You can also explore financial reporting practices by comparing the financial statements of different companies in the same industry.</p>
 
 <p><strong>Key Features:</strong><br>
     Fetch historical stock market data using yfinance.<br>
